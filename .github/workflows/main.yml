@@ -1,0 +1,22 @@
+name: Deploy To Digital Ocean
+
+on:
+  push:
+    branches:
+      - main
+      
+jobs:
+  deploy:
+    runs-on: self-hosted
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Build Project
+        run: | 
+         dotnet build
+
+      - name: Deploy Project
+        run: |
+          cd /home/compar/test
