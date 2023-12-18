@@ -15,7 +15,7 @@ jobs:
 
       - name: Build Project
         run: | 
-         cd /WebUI
+         cd /home/compar/actions-runner/_work/k401-digital-ocean-deploy/k401-digital-ocean-deploy/WebUI
          dotnet build
 
       - name: Deploy Project
