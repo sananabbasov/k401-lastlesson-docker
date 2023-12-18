@@ -15,6 +15,7 @@ jobs:
 
       - name: Build Project
         run: | 
+         cd /WebUI
          dotnet build
 
       - name: Deploy Project

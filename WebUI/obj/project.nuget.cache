@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "0RWM7HK4Az6PisVxROPnTCJSPRvcKTc+6PXfv/oxSAGcj0KotX5XqYEcoWl6hgpg+gxwkCYATtgTtUXMQe9S6Q==",
+  "dgSpecHash": "u8Tk5roc37TThfRS85M2v4ppWJwssRjT17t53U+I12M+iD0hytXjDzvLbxXzSI8ljqF1vcBV9k4gvxo+deD4nw==",
   "success": true,
   "projectFilePath": "/Users/sanan/Desktop/Projects/Compar Academy/K401/Deploy/WebUI/WebUI.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/sanan/.nuget/packages/microsoft.netcore.app.ref/7.0.14/microsoft.netcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.14/microsoft.aspnetcore.app.ref.7.0.14.nupkg.sha512",
+    "/Users/sanan/.nuget/packages/microsoft.netcore.app.host.osx-arm64/7.0.14/microsoft.netcore.app.host.osx-arm64.7.0.14.nupkg.sha512"
+  ],
   "logs": []
 }
