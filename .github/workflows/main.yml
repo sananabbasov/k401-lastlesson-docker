@@ -13,10 +13,14 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
 
+
+
       - name: Build Project
         run: | 
          cd /home/compar/actions-runner/_work/k401-digital-ocean-deploy/k401-digital-ocean-deploy/WebUI
-         
+       
+      - name: Build
+        run: dotnet build --configuration Release --no-restore -r linux-x64
 
       - name: Deploy Project
         run: |
