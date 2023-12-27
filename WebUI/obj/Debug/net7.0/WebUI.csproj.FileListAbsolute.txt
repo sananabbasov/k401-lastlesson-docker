@@ -13,7 +13,6 @@
 /Users/sanan/Desktop/Projects/Compar Academy/K401/Deploy/WebUI/obj/Debug/net7.0/WebUI.MvcApplicationPartsAssemblyInfo.cache
 /Users/sanan/Desktop/Projects/Compar Academy/K401/Deploy/WebUI/obj/Debug/net7.0/WebUI.RazorAssemblyInfo.cache
 /Users/sanan/Desktop/Projects/Compar Academy/K401/Deploy/WebUI/obj/Debug/net7.0/WebUI.RazorAssemblyInfo.cs
-/Users/sanan/Desktop/Projects/Compar Academy/K401/Deploy/WebUI/obj/Debug/net7.0/WebUI.sourcelink.json
 /Users/sanan/Desktop/Projects/Compar Academy/K401/Deploy/WebUI/obj/Debug/net7.0/staticwebassets.build.json
 /Users/sanan/Desktop/Projects/Compar Academy/K401/Deploy/WebUI/obj/Debug/net7.0/staticwebassets.development.json
 /Users/sanan/Desktop/Projects/Compar Academy/K401/Deploy/WebUI/obj/Debug/net7.0/staticwebassets/msbuild.WebUI.Microsoft.AspNetCore.StaticWebAssets.props
@@ -29,3 +28,4 @@
 /Users/sanan/Desktop/Projects/Compar Academy/K401/Deploy/WebUI/obj/Debug/net7.0/WebUI.pdb
 /Users/sanan/Desktop/Projects/Compar Academy/K401/Deploy/WebUI/obj/Debug/net7.0/WebUI.genruntimeconfig.cache
 /Users/sanan/Desktop/Projects/Compar Academy/K401/Deploy/WebUI/obj/Debug/net7.0/ref/WebUI.dll
+/Users/sanan/Desktop/Projects/Compar Academy/K401/Deploy/WebUI/obj/Debug/net7.0/WebUI.sourcelink.json
